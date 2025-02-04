@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public clas QuadraticEquationSolver 
+public class QuadraticEquationSolver 
 {
 	public static void main(String[] args)
 	{	
